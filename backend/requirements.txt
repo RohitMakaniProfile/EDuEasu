@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+python-jose[cryptography]
+bcrypt
+python-multipart
+groq
+chromadb
+sentence-transformers
+PyMuPDF
+python-dotenv
+pydantic-settings
+aiofiles
+httpx
